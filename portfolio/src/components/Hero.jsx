@@ -22,7 +22,7 @@ export default function Hero() {
 </p>
 
           <div className="hero-contact">
-            <span>📍 Vijayawada, India</span>
+            <span>📍 Gurazala, India - 522415</span>
             <span>📧 2300030500cseelge@gmail.com</span>
             <span>☎ +91 7569503047</span>
           </div>

@@ -9,7 +9,7 @@ export default function Publications() {
   const authorPortfolios = {
     "Gundumi Sri Krishna Sudhindra": "https://www.srikrishnasudhindra.me/", // Replace with actual URL
     "B Suraj Patra": "https://www.bsurajpatra.me/", // Replace with actual URL
-    "Alimilla Abhinandan": "https://portfolio-url-abhinandan.com", // Replace with actual URL
+    "Alimilla Abhinandan": "https://alimillaabhinandan.vercel.app/", // Replace with actual URL
   };
 
   const publications = [

@@ -13,8 +13,11 @@ export default function Navbar() {
       <div className="nav-brand">Varsha Palchuri</div>
 
       <div className={`nav-links ${menuOpen ? "open" : ""}`}>
+       
         <a href="#projects" onClick={handleLinkClick}>Projects</a>
         <a href="#skills" onClick={handleLinkClick}>Skills</a>
+         <a href="#education" onClick={handleLinkClick}>Education</a>
+        <a href="#achievements" onClick={handleLinkClick}>Achievements</a>
         <a href="#certifications" onClick={handleLinkClick}>Certifications</a>
         <a href="#publications" onClick={handleLinkClick}>Publications</a>
         <a href="#contact" onClick={handleLinkClick}>Contact</a>
