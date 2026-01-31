@@ -14,7 +14,7 @@ export default function Certifications() {
       skills: ["Cloud Computing", "AWS Services", "Cloud Architecture", "Cloud Security"],
       date: "Sept 19, 2025 - Sept 19, 2028",
       verifyUrl: "https://www.credly.com/badges/007fe6ad-ce26-41bc-b234-005e2dbd716f/public_url",
-      downloadUrl: "/certificates/aws-cloud-practitioner.pdf", // Replace with your actual PDF path
+      downloadUrl: "/AWS Certified Cloud Practitioner certificate.pdf", // Replace with your actual PDF path
     },
     {
       title: "MongoDB Associate Node.js Developer",
@@ -25,7 +25,7 @@ export default function Certifications() {
       skills: ["JavaScript", "Node.js", "MongoDB", "Data Modeling", "CRUD Operations"],
       date: "April 26, 2025",
       verifyUrl: "https://www.credly.com/badges/74792f3f-9d52-48a0-a7cd-fd102aa17f2c/public_url",
-      downloadUrl: "/certificates/mongodb-nodejs-developer.pdf", // Replace with your actual PDF path
+      downloadUrl: "/MongoDB Certified Associate Developer.pdf", // Replace with your actual PDF path
     },
     {
       title: "GitHub Foundations",
@@ -36,7 +36,7 @@ export default function Certifications() {
       skills: ["DevOps", "CI/CD", "GitHub Actions", "Release Management"],
       date: "April 11, 2025 - April 11, 2028",
       verifyUrl: "https://www.credly.com/badges/de0c7da6-6d9c-4101-8411-c9df1291cf05/public_url",
-      downloadUrl: "/certificates/github-foundations.pdf", // Replace with your actual PDF path
+      downloadUrl: "/GitHubFoundations.pdf", // Replace with your actual PDF path
     },
     {
       title: "Salesforce AI Associate",
@@ -47,7 +47,7 @@ export default function Certifications() {
       skills: ["Artificial Intelligence", "CRM", "Salesforce Platform", "AI Ethics"],
       date: "2024",
       verifyUrl: "https://trailhead.salesforce.com/credentials/certification-detail-print/?searchString=your-cert-id",
-      downloadUrl: "/certificates/salesforce-ai-associate.pdf", // Replace with your actual PDF path
+      downloadUrl: "/Salesforce AIAssociate.pdf", // Replace with your actual PDF path
     },
   ];
 
