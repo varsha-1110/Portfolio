@@ -1,5 +1,7 @@
 import React from "react";
+import profileImg from "../assets/varsha.jpeg";
 import "./Hero.css";
+
 
 export default function Hero() {
   return (
@@ -42,8 +44,8 @@ export default function Hero() {
         </div>
         <div className="hero-image">
           <div className="image-placeholder">
-            <span>BV</span>
-          </div>
+  <img src={profileImg} alt="Bhavya Varsha" className="hero-profile-img" />
+</div>
         </div>
       </div>
       <div className="hero-scroll">
